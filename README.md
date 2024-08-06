@@ -1,2 +1,3 @@
 # classification-des-saumons
-Apprentissage supervisé par une approche PLS pour la discrimination des saumons suivant leur provenance et leur mode de production sur la base de données de caractérisation chimique.
+
+Ce projet vise à classifier l'origine des saumons en utilisant la méthode de régression PLS-DA (Partial Least Squares Discriminant Analysis). Les échantillons de saumon proviennent de différentes régions, notamment l'Alaska, l'Écosse, la Norvège et l'Islande. La PLS-DA est utilisée pour analyser les données chimiques des échantillons, permettant de discriminer efficacement les saumons selon leur provenance
